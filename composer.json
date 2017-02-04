@@ -1,0 +1,13 @@
+{
+    "name": "Health Monitor",
+    "description": "",
+    "license": "GNU General Public License v3.0",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/alexanderduring/health-monitor",
+    "require": {
+        "php": ">=5.3.23",
+        "zendframework/zendframework": "2.4.10",
+        "alexanderduring/ember-db": "dev-master"
+    }
+}
